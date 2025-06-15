@@ -9,8 +9,6 @@ Original file is located at
 🐘 Elephant Detection Using Open CV
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
 
 """Load the Image of the Elephant"""
 
